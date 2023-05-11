@@ -1,0 +1,3 @@
+Dupla: Guilherme Damasceno Sanches  e Caio Cesar Rodrigues Silva
+-Use o Windows para rodar o código.
+
